@@ -2,11 +2,14 @@
 
 A simple Flutter package to display the current time and date.
 
-## Features
-- `ShowCurrentTime()`: Displays the current time.
-- `ShowCurrentDate()`: Displays the current date.
+- 
+  ## How to use it ?
+- `Text(CurrentTimeDate.ShowCurrentTime())`: Displays the current time.
+- `Text(CurrentTimeDate.ShowCurrentDate())`: Displays the current date.
 
 ## Installation
+
+`flutter pub add current_time_date`
 
 Add the following to your `pubspec.yaml`:
 ```yaml
