@@ -3,8 +3,8 @@
 A simple Flutter package to display the current time and date.
 
 ## Features
-- `Timer()`: Displays the current time.
-- `Date()`: Displays the current date.
+- `ShowCurrentTime()`: Displays the current time.
+- `ShowCurrentDate()`: Displays the current date.
 
 ## Installation
 
